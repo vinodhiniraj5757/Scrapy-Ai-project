@@ -13,6 +13,8 @@ List the programming languages, frameworks, and tools used in your project.
 * Kore.ai (Chatbot Development)
 * HTML
 * CSS
-* JavaScript 
+* JavaScript
+  
 Home Page:
+
 ![Uploading Screenshot 2024-04-09 155534.png…]()
