@@ -17,8 +17,4 @@ List the programming languages, frameworks, and tools used in your project.
   
 Home Page:
 
-![Screenshot 1]
-About:
-![Screenshot 2]
-Services:
-![Screenshot 3]
+![Uploading Screenshot 2024-04-09 155534.png…]()
