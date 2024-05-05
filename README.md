@@ -17,8 +17,8 @@ List the programming languages, frameworks, and tools used in your project.
   
 Home Page:
 
-![Screenshot 2024-04-09 155534](https://github.com/SamDanielVincy/Scrapy-AI/assets/134204702/37b48105-3273-422f-8dde-fffc4482b6ed)
+![Screenshot 1]
 About:
-![Screenshot 2024-04-09 161013](https://github.com/SamDanielVincy/Scrapy-AI/assets/134204702/02e94a35-646e-4d22-9920-d79593553f68)
+![Screenshot 2]
 Services:
-![Screenshot 2024-04-09 160921](https://github.com/SamDanielVincy/Scrapy-AI/assets/134204702/1085e74d-332c-4296-b88c-df3bea77a3e8)
+![Screenshot 3]
